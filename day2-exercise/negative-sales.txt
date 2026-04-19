@@ -1,0 +1,9 @@
+Negative revenue count: 6
+
+Months with negative revenue:
+- February
+- April
+- June
+- August
+- October
+- December
